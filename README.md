@@ -1,6 +1,5 @@
 # ECU
 
-!!! DO NOT USE ON PUBLIC ROAD !!!
 
 Code for Arduino based ECU: 
 
